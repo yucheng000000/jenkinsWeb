@@ -9,7 +9,7 @@ public class JenDemo {
 
     @RequestMapping("/print")
     public String print(){
-        String str = "Hello World!";
+        String str = "Hello World000000!";
         System.out.println(str);
         return str;
     }
